@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'Bagass', // Your GitHub org/user name. (Required)
+    username: 'Uunkn0wnN', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -49,9 +49,9 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Nazarick',
+      position: 'founder',
+      from: 'juni 2021',
       to: 'Present',
       companyLink: 'https://example.com',
     },
@@ -118,7 +118,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'Luxury',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -179,10 +179,10 @@ const config = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/Uunkn0wnN"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and Bagass`,
+    >Bagass</a`,
 };
 
 export default config;
