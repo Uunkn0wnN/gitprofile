@@ -3,7 +3,7 @@
 const config = {
   github: {
     username: 'Uunkn0wnN', // Your GitHub org/user name. (Required)
-    sortBy: 'updated', // stars | updated
+    sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
@@ -53,14 +53,14 @@ const config = {
       position: 'founder',
       from: 'juni 2021',
       to: 'leader',
-      companyLink: 'https://example.com',
+      companyLink: 'https://discord.gg',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'no name',
+      position: '???',
+      from: '1 July ????',
+      to: '9 August ????',
+      companyLink: 'https://discord.gg',
     },
   ],
   /* certifications: [
@@ -89,11 +89,11 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Ichika whatsapl Bot',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'whatsapp bot md',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://github.com/Uunkn0wnN ',
     },
     {
       title: 'Project Name',
@@ -114,7 +114,7 @@ const config = {
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
-    id: '',
+    id: '3383559',
     snippetVersion: 6,
   },
   themeConfig: {
