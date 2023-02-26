@@ -89,10 +89,10 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Ichika whatsapl Bot',
+      title: 'Ichika whatsapp Bot',
       description:
         'whatsapp bot md',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://via.placeholder.com/250x25',
       link: 'https://github.com/Uunkn0wnN ',
     },
     {
